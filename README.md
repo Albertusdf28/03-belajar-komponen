@@ -5,7 +5,7 @@ Berikut adalah hasil implementasi komponen Profile pada halaman utama:
 
 ![Hasil Tampilan](./Soal-1.png)
 ![Hasil Tampilan](./Soal-2.png)
-
+![Hasil Tampilan](./Soal-3.png)
 
 ## Apa yang Saya Pelajari
 Pada tugas ini saya mempelajari:
@@ -19,3 +19,8 @@ Pada tugas ini saya mempelajari:
     Soal 2:
         - Cara membuat Named Export Components {Gallery}
         - Cara menggunakan komponen Gallery pada Page.tsx
+
+    Soal 3:
+        - JSX hanya boleh me-return satu elemen utama (root)
+        - Atribut HTML `class` harus ditulis sebagai `className` (camelCase)
+        - Tag HTML harus ditutup dengan benar seperti `<br>` harus menggunakan `<br />`    
