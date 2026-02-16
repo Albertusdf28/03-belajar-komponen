@@ -4,6 +4,7 @@
 Berikut adalah hasil implementasi komponen Profile pada halaman utama:
 
 ![Hasil Tampilan](./Soal-1.png)
+![Hasil Tampilan](./Soal-2.png)
 
 
 ## Apa yang Saya Pelajari
@@ -14,3 +15,7 @@ Pada tugas ini saya mempelajari:
         - Cara melakukan import komponen ke page.tsx
         - Cara menampilkan beberapa komponen dalam satu halaman
         - Pengaturan layout menggunakan flexbox
+        
+    Soal 2:
+        - Cara membuat Named Export Components {Gallery}
+        - Cara menggunakan komponen Gallery pada Page.tsx
