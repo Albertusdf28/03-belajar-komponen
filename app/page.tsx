@@ -60,16 +60,31 @@
 
 
 //Soal 4
-import { Gallery } from "@/src/components/gallery"; 
+// import { Gallery } from "@/src/components/gallery"; 
+// import TodoList from "@/src/components/todolist"; 
+ 
+// export default function Home() { 
+//   return ( 
+//     <section> 
+//       <h1 className="font-semibold text-slate-900 truncate pr-20 text
+// center">Ilmuwan yang luar biasa</h1> 
+//       <hr /> 
+//       <Gallery /> 
+//       <hr /> 
+//       <TodoList /> 
+//     </section> 
+//   ); 
+// } 
+
+
+//Soal 5
 import TodoList from "@/src/components/todolist"; 
  
 export default function Home() { 
   return ( 
     <section> 
       <h1 className="font-semibold text-slate-900 truncate pr-20 text
-center">Ilmuwan yang luar biasa</h1> 
-      <hr /> 
-      <Gallery /> 
+center">Ilmuwan yang luar biasa</h1>  
       <hr /> 
       <TodoList /> 
     </section> 

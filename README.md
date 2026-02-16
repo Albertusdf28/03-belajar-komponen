@@ -7,6 +7,7 @@ Berikut adalah hasil implementasi komponen Profile pada halaman utama:
 ![Hasil Tampilan](./Soal-2.png)
 ![Hasil Tampilan](./Soal-3.png)
 ![Hasil Tampilan](./Soal-4.png)
+![Hasil Tampilan](./Soal-5.png)
 
 ## Apa yang Saya Pelajari
 Pada tugas ini saya mempelajari:
@@ -29,4 +30,10 @@ Pada tugas ini saya mempelajari:
     Soal 4:
         - JSX tidak dapat menampilkan object secara langsung
         - Data object harus diakses melalui properti tertentu
-        - Penggunaan inline style pada JSX        
+        - Penggunaan inline style pada JSX  
+
+    Soal 5:
+        - Cara menggunakan JavaScript expression di JSX
+        - Cara menggabungkan string dan variabel untuk URL gambar
+        - Perbedaan antara string biasa dan expression pada JSX
+        - Cara menampilkan gambar secara dinamis          
