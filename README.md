@@ -6,6 +6,7 @@ Berikut adalah hasil implementasi komponen Profile pada halaman utama:
 ![Hasil Tampilan](./Soal-1.png)
 ![Hasil Tampilan](./Soal-2.png)
 ![Hasil Tampilan](./Soal-3.png)
+![Hasil Tampilan](./Soal-4.png)
 
 ## Apa yang Saya Pelajari
 Pada tugas ini saya mempelajari:
@@ -23,4 +24,9 @@ Pada tugas ini saya mempelajari:
     Soal 3:
         - JSX hanya boleh me-return satu elemen utama (root)
         - Atribut HTML `class` harus ditulis sebagai `className` (camelCase)
-        - Tag HTML harus ditutup dengan benar seperti `<br>` harus menggunakan `<br />`    
+        - Tag HTML harus ditutup dengan benar seperti `<br>` harus menggunakan `<br />`
+
+    Soal 4:
+        - JSX tidak dapat menampilkan object secara langsung
+        - Data object harus diakses melalui properti tertentu
+        - Penggunaan inline style pada JSX        
